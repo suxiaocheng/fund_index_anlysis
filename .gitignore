@@ -1,0 +1,11 @@
+# ignore binary file
+*.o
+
+# ignore tmp file
+*.tmp
+
+# ignore execute file
+fund_analysis
+
+# ignore database file
+*.csv
